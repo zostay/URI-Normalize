@@ -1,4 +1,6 @@
 {{$NEXT}}
 
+0.001     2016-07-28 22:35:45-05:00 America/Chicago
+
     * Initialze release of URI normalizer implementing normalization according
       to RFC 3986.
