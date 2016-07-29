@@ -4,7 +4,7 @@ URI::Normalize - Normalize URIs according to RFC 3986
 
 # VERSION
 
-version 0.162110
+version 0.001
 
 # SYNOPSIS
 
