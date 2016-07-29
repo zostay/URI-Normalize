@@ -1,0 +1,4 @@
+{{$NEXT}}
+
+    * Initialze release of URI normalizer implementing normalization according
+      to RFC 3986.
