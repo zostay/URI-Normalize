@@ -4,12 +4,12 @@ URI::Normalize - Normalize URIs according to RFC 3986
 
 # VERSION
 
-version 0.001
+version 0.002
 
 # SYNOPSIS
 
     use URI;
-    use URI::Normalize qw( normalize remove_dot_segments );
+    use URI::Normalize qw( normalize_uri remove_dot_segments );
     my $uri = URI->new('HTTPS://www.Example.com:443/../test/../foo/index.html');
 
     say normalize_uri($uri);       #> https://www.example.com/foo/index.html
